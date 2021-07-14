@@ -9,7 +9,7 @@
         "sadew451"
     ],
     "website": "https://damantha.tk/web",
-    "repository": "https://github.com/sadew/Image-Editor",
+    "repository": "https://github.com/sadew/SD-Image-Editor",
     "success_url": "https://t.me/SDBOTs_inifinity",
     "env": {
         "TG_BOT_TOKEN": {

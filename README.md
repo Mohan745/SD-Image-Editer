@@ -28,7 +28,7 @@ A Powerful and Useful Bot Which Can :-
 * ✅Remove BG
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadew451/Image-Editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadew451/SD-Image-Editor)
 
 <HR/>
 

@@ -10,13 +10,13 @@
   
 </p>
 <p align="center">
-  <a href="https://github.com/sadew451/Image-Editor/stargazers">
-    <img src="https://img.shields.io/github/stars/sadew451/Image-Editor?style=social">
+  <a href="https://github.com/sadew451/SD-Image-Editor/stargazers">
+    <img src="https://img.shields.io/github/stars/sadew451/SD-Image-Editor?style=social">
 
   </a>
   
-  <a href="https://github.com/sadew451/Image-Editor/fork">
-    <img src="https://img.shields.io/github/forks/sadew451/Image-Editor?label=Fork&style=social">
+  <a href="https://github.com/sadew451/SD-Image-Editor/fork">
+    <img src="https://img.shields.io/github/forks/sadew451/SD-Image-Editor?label=Fork&style=social">
 
   </a>  
 </p>

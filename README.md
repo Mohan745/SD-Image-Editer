@@ -1,4 +1,4 @@
-# Image Editor ![GitHub repo size](https://img.shields.io/github/repo-size/sadew451/Image-Editer?label=Repo%20Size)
+# Image Editor !
 
 
 <p align="center">

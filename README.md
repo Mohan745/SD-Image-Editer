@@ -7,8 +7,7 @@
       </a>
 
 
-  
-</p>
+  </p>
 <p align="center">
   <a href="https://github.com/sadew451/SD-Image-Editor/stargazers">
     <img src="https://img.shields.io/github/stars/sadew451/SD-Image-Editor?style=social">
@@ -20,6 +19,7 @@
 
   </a>  
 </p>
+  
 
 A Powerful and Useful Bot Which Can :-
 * ✅Edit Your Pictures
